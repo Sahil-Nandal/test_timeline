@@ -288,6 +288,7 @@ span {
     .timeline {
         position: relative;
         min-height: 150px;
+        font-size: small;
     }
     .line {
         position: absolute;
